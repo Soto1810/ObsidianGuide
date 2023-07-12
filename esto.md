@@ -1,0 +1,1 @@
+Ah, pues en enlace de _esto_ nos crea un nuevo documento con ese nombre. Curioso.
