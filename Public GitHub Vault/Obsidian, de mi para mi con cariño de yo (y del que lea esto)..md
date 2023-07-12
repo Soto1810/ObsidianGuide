@@ -1,6 +1,6 @@
 # A comprehensive guide to the ultimate thoughts management app
 
-## Una guía para unificar y comprender el uso de la herramienta (en castellano, lo de arriba era para darle caché)
+## Una guía para unificar y comprender el uso de la herramienta (en Castellano, lo de arriba era para darle caché)
 
 ### A prueba de [catetos](https://es.wikipedia.org/wiki/Cateto)
 
@@ -10,7 +10,9 @@
 
 ##### Ni tampoco sub-títulos de sobra
 
-###### Este ya es por vício
+###### Éste ya es por vício
+
+_Nota del editor: Si estás leyendo esto desde GitHub recomiendo encarecidamente que clones el repositorio y lo leas desde Obsidian para tu plataforma. Ya te dejo tranquilo sufrir en paz._
 
 Primero de todo un poco de contexto. Obsidian destaca como un centralizador de ideas, un motor de nodos de pensamiento que nos ayuda a explicar y describir proyectos y a visualizar de forma gráfica y enlazar planes, cavilaciones o apotegmas.
 
@@ -81,7 +83,7 @@ const handleDisplayAll = () => {
 };
 ```
 
-
+Hay mil métodos más para formatear código, por ahora sólo he añadido los que a mi parecer pueden ser más útiles para resaltar ideas, unir conceptos o plasmar ocurrencias. Si el que lea esto considera que es 
 
 
 
