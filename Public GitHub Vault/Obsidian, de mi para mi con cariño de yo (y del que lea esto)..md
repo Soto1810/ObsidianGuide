@@ -67,7 +67,22 @@ Más de lo mismo si queremos introducir un link. Introducimos la cadena entre es
 _Nota del editor: esto es para crear una hoja con el título que hayas introducido entre los símbolos. No lo he investigado mucho, así que por ahora dejémoslo así y cuando tenga más conocimientos volveremos aquí._
 
 Si en lugar de dos símbolos ([[]]) escribimos sólo uno ([]) conseguimos [esto], que si te digo la verdad no sé muy bien para qué vale. Vamos a investigarlo; después de unos 10 minutos he aprendido que es un enlace y si seguido al corchete no introduces entre paréntesis el enlace al que quieres que apunte, no conseguimos nada. Te lo muestro, sería [así](https://es.wikipedia.org/wiki/Hydrochoerus_hydrochaeris). Y si dentro del paréntesis, justo después del enlace, introduces texto entre comillas dobles, crearás una pequeña etiqueta o título para el enlace. Mira que guay cuando dejas el ratón sobre este [enlace](https://es.wikipedia.org/wiki/Hydrochoerus_hydrochaeris "No son capibaras de nuevo confía en mi")
-_Nota del editor: este último punto es ***mentira***, a día 12 de Junio de 2023 aún no se ha implementado esta funcionalidad, pero seguramente lo hará. Lo dejo para no tener que escribirlo de nuevo cuando suceda._
+_Nota del editor: este último punto es ***mentira***, a día 12 de Junio de 2023 aún no se ha implementado esta funcionalidad en la herramienta, pero seguramente lo hará. Lo dejo para no tener que escribirlo de nuevo cuando suceda._ 
+
+Por último quiero destacar el formato para código, no porque sea más importante que el resto de cosas, simplemente porque me gusta. Siguiendo la línea de lo anterior, darle formato a un bloque de código es tan sencillo como introducirlo entre ciertos caracteres (qué sorpresa). Dichos caracteres son (``` ```) al inicio y al final del bloque, sin espacios (haz uso de lo que dije justo al principio y pulsa dentro del paréntesis). Veamos cómo queda:
+
+```
+const handleDisplayAll = () => {
+	if (records.length === 0) {
+		alert('[Empty list]');
+		return;
+	}
+	alert(records);
+};
+```
+
+
+
 
 
 
